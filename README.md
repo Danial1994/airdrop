@@ -1,5 +1,4 @@
 Prerequisites: Enrollment dApp
-READ CAREFULLY ALL STEPS
 (NOTE-If you are a windows user, you will want to work in WSL2 for Solana)
 You have 24 hours to complete this.
 These prerequisites are meant to assess your ability to follow processes, execute tasks, debug
@@ -19,4 +18,4 @@ Prerequisites:
 Have NodeJS installed
 Have yarn installed
 Have a fresh folder created to follow this tutorial and all future tutorials
-Let's
+
